@@ -1,4 +1,4 @@
-#Thu Mar 24 22:09:45 JST 2022
+#Sat Mar 26 19:17:42 JST 2022
 base.2=/Users/t.shimizu/AndroidStudioProjects/DevBytes-starter/app/build/intermediates/dex/debug/mergeExtDexDebug/classes2.dex
 path.2=classes2.dex
 base.1=/Users/t.shimizu/AndroidStudioProjects/DevBytes-starter/app/build/intermediates/dex/debug/mergeProjectDexDebug/classes.dex
